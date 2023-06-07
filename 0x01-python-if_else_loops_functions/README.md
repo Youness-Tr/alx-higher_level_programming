@@ -1,1 +1,1 @@
-learn Python - if/else, loops, functions
+learn Python if/else, loops, functions
